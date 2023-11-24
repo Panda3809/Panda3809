@@ -16,13 +16,7 @@ Hey there! 👋 I'm Akubada Daniel, a passionate front-end developer with a love
 
 ### [Project Name](https://github.com/Panda3809/Exam)
 
-Short description of the project, highlighting key features and technologies used.
-
-### [Another Project](https://github.com/your-username/another-project)
-
-Brief overview of the project, showcasing your ability to create visually appealing and user-friendly interfaces.
-
-![Another Project Screenshot](https://your-another-project-screenshot-url.com/screenshot.png)
+This was my first semester exam at Altschool Africa 
 
 ## 🎨 Fun Facts
 
